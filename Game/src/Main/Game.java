@@ -13,7 +13,7 @@ public class Game {
 		window.setResizable(false);
 		window.pack();
 		window.setVisible(true);
-		fhafhasdfasd
+		
 		
 	}
 	
