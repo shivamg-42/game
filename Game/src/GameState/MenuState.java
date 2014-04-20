@@ -1,5 +1,6 @@
 package GameState;
 
+import Main.GamePanel;
 import TileMap.Background;
 
 import java.awt.*;
@@ -56,7 +57,7 @@ public class MenuState extends GameState {
 		// draw titles
 		g.setColor(titleColor);
 		g.setFont(titleFont);
-		g.drawString("Test", 80, 70);
+		g.drawString("OTA", 130, 80);
 		
 		// draw menu options
 		g.setFont(font);
